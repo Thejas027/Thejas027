@@ -13,8 +13,7 @@
 
 ## 🛠️ About Me
 
-- 🔥 I’m currently working on **Blog-app**
-- 📚 Learning **MERN stack** like a pro
+- 🔥 I’m currently working on **DEV-OPS**
 - 🤝 Looking to collaborate on **cool MERN projects**
 - 💌 Reach me at **teju270934@gmail.com**
 
@@ -22,9 +21,12 @@
 
 ## 🚀 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/thejas-c-10b3a0259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/027tejas/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
@@ -50,17 +52,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thejas027&show_icons=true&locale=en&theme=radical" alt="thejas027" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejas027&theme=radical" alt="thejas027" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejas027&layout=compact&theme=radical" alt="thejas027" />
-</p>
+</p> -->
 
 ---
-
