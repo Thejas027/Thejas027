@@ -55,7 +55,7 @@
   </a>
 </p>
 
----
+----
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thejas027&show_icons=true&locale=en&theme=radical" alt="thejas027" />
