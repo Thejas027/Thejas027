@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/thejas-c-10b3a0259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/027tejas/" target="_blank">
+  <a href="https://leetcode.com/u/Thejas027/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
